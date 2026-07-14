@@ -1,4 +1,4 @@
-# Portfolio - Nguyễn Mại Hiền
+# Portfolio - Nguyễn Mai Hiền
 
 > Portfolio cá nhân thể hiện khoá học VNU1001 - Nhập môn Công nghệ Số & Trí tuệ Nhân tạo
 
@@ -66,7 +66,7 @@ public/
 2. **Khai thác Dữ liệu** - Tìm kiếm & đánh giá thông tin học thuật
 3. **Trí tuệ Nhân tạo** - Viết prompt hiệu quả
 4. **Giao tiếp Số** - Công cụ hợp tác trực tuyến
-5. **Sáng tạo Nội dung** - Ứng dụng AI generative
+5. **Sáng tạo Nội dung** - Ứng dụng công cụ AI tạo sinh
 6. **An toàn & Liêm chính** - Sử dụng AI có trách nhiệm
 
 ## 🎨 Design Inspiration
@@ -106,7 +106,7 @@ npm run build
 
 ## 📝 License
 
-Copyright © 2026 Nguyễn Mại Hiền
+Copyright © 2026 Nguyễn Mai Hiền
 
 ## ✉️ Contact
 
